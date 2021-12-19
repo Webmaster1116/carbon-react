@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7c3ce21176be2Fd6ab6F829ACAD04a8F3711259",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3d5f550d01db43ba40bd8ce49eb312131ed762c9",
+  "NETWORK": {
+    "NAME": "Rinkby",
+    "SYMBOL": "Etherium",
+    "ID": 4
+  },
+  "NFT_NAME": "Carbon Collecteble NFTs",
+  "SYMBOL": "CCN",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/santaa-punks",
+  "SHOW_BACKGROUND": false
+}
